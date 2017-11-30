@@ -16,17 +16,7 @@ for i in range (start, stop):
 print(sequence)
 
 
-    
 
-
-#sequence = sequence[::-1]
-#print (sequence)
-
-#sequence.reverse()
-#print(sequence)
-
-#for i in reversed(sequence):
-#    print(i)
 
 li = [11, 22, 33, 44, 55, 66]
 ki = [0 for x in range(len(li))]
