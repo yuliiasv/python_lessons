@@ -15,7 +15,7 @@ for i in range (start, stop):
     sequence[len(sequence) - i - 1] = temp
 print(sequence)
 
-
+#dima
 
 
 li = [11, 22, 33, 44, 55, 66]
